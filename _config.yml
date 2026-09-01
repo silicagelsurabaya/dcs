@@ -1,12 +1,11 @@
-baseurl: "/dizer-jekyll" # the subpath of your site, e.g. /blog
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
-email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
-address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
-description: >- # this means to ignore newlines
-  Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+baseurl: /dcs
+url: https://silicagelsurabaya.github.io/
+title: DESICCANTO Network
+email: desiccantosby@gmail.com
+phone: +62 81 331 949 115
+address: Gunungsari Indah blok U No. 5, Surabaya
+author: Desiccanto
+description: Desiccanto adalah distributor resmi produk silica gel dan desiccant 
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
@@ -50,8 +49,8 @@ permalink: "/:title"
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-archives
+  - jekyll-paginate
+  
 
 # Scss Directory
 sass:
